@@ -1,0 +1,29 @@
+Astro Photo of the Day - Flask Web App
+
+This is a lightweight Flask web application that displays a random astronomy photo from a predefined list every time the page is refreshed. The app uses basic HTML/CSS templating and is containerized using Docker for easy deployment. The app is designed to run on an AWS EC2 instance and was deployed using MobaXterm for secure file transfers and SSH access.
+
+Key Features:
+
+Built using Python Flask
+
+Simple and responsive HTML frontend
+
+Image rendered dynamically using render_template
+
+Dockerized for platform-agnostic deployment
+
+Hosted on AWS EC2 with secure SSH access
+
+Technologies Used:
+
+Python
+
+Flask
+
+HTML/CSS
+
+Docker
+
+AWS EC2
+
+MobaXterm
