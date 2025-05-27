@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment files
+*.env
+
+# macOS system files
+.DS_Store
+
+# VS Code folder
+.vscode/
+
+# Key files
+*.pem
+
+# Docker
+*.tar
+*.log
+
+# Pip files
+pip-log.txt
+
+# Virtual environment
+venv/
